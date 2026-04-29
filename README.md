@@ -43,13 +43,26 @@ LOCATION:   NODE_FR (France)
 
 ### 🐍 Snake Protocol
 
-![snake](https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-snake.svg">
+  </picture>
+</p>
+
 
 ------------------------------------------------------------------------
 
 ### 🟡 PAC-MAN GRID SIMULATION
 
-![pacman](https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/pacman.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/pacman.svg">
+    <img alt="pacman animation" src="https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/pacman.svg">
+  </picture>
+</p>
 
 ------------------------------------------------------------------------
 
