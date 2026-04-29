@@ -1,59 +1,105 @@
-# Hey, I'm [Your Name] 👋
+# ⚡ Hi, I'm CM-exe
 
-> building things, breaking things, learning in between.
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;INITIALIZING+PROFILE...;WELCOME+TO+THE+GRID;CM-exe+ACTIVE" />`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🧭 About me
+## 🧬 IDENTITY MATRIX
 
-- 💻 Developer focused on all possible technologies and even more!
-- ⚙️ Currently working on apprenticeship
-- 🌱 Always exploring: new tools, systems, and ideas
-- 📍 Based in France (you will never know)
+``` bash
+> user@github:~$ whoami
+> CM-exe
+> Developer / Builder / Systems Thinker
 
----
+> status: ACTIVE
+> mode: CYBERNETIC DEVELOPER
+```
 
-## 🧪 What I do
+------------------------------------------------------------------------
 
-I like building:
-- tools that solve real problems
-- experiments that might not work (but teach something anyway)
-- projects that live on GitHub, Vercel and so much more
+## ⚙️ SYSTEM OVERVIEW
 
----
+``` txt
+LANGUAGES:  Python • JavaScript • TypeScript • Rust • Go
+FOCUS:      Full-stack / Systems / AI / Automation
+TOOLS:      Linux • Docker • Git • APIs • Cloud
+LOCATION:   NODE_FR (France)
+```
 
-## 🚀 Projects
+------------------------------------------------------------------------
 
-- 🧩 **[Project 1]** — short description
-- ⚡ **[Workout App]** — short description
-- 🛠️ **[Project 3]** — short description
+## 🧠 ACTIVE PROJECTS
 
----
+-   ⚡ Neural automation systems
+-   🧩 Experimental tooling
+-   🛰️ Distributed applications
+-   🔐 Security / systems exploration
 
-## 🐍 Contribution Snake
+------------------------------------------------------------------------
 
-![snake gif](https://raw.githubusercontent.com/CM-exe/CM-exe/output/github-contribution-grid-snake.svg)
+## 🟢 LIVE CONTRIBUTION FEED
 
----
+### 🐍 Snake Protocol
 
-## Streak stats
+![snake
+gif](https://raw.githubusercontent.com/CM-exe/CM-exe/output/github-contribution-grid-snake.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CM-exe&theme=radical)
+------------------------------------------------------------------------
 
----
+### 🟡 PAC-MAN GRID SIMULATION
 
-## Activity Graph
+![pacman](https://raw.githubusercontent.com/CM-exe/CM-exe/output/pacman-contribution-graph.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=react-dark)
+------------------------------------------------------------------------
 
----
+## 📊 SYSTEM METRICS
 
-## 📊 GitHub Stats
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=tokyonight&hide_border=true)
 
-![stats](https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=radical)
+![GitHub
+Streak](https://streak-stats.demolab.com?user=CM-exe&theme=tokyonight&hide_border=true)
 
----
+![Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=react-dark)
 
-## 🧠 Philosophy
+------------------------------------------------------------------------
 
-> “simplicity scales better than complexity.”
+## 🔌 TERMINAL INTERFACE
+
+``` bash
+$ echo "booting CM-exe profile..."
+boot complete
+
+$ status:
+✔ repositories synced
+✔ contributions tracked
+✔ system online
+```
+
+------------------------------------------------------------------------
+
+## 🧷 SYSTEM BADGES
+
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/FOCUS-SYSTEMS-ff00ff?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/BUILDING-TOOLS-00ff88?style=for-the-badge"/>`{=html}
+
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🧾 FINAL MESSAGE
+
+> "I build systems, not just code."
