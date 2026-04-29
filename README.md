@@ -134,33 +134,60 @@ $ status:
 
 ------------------------------------------------------------------------
 
-## 🧷 SYSTEM BADGES
+<div align="center">
 
-<p align="center">
+<pre>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▰▰▰    🧷 SYSTEM BADGES     ▰▰▰
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
-### ── CORE SYSTEM STATUS ──
+</div>
+
+<div align="center">
+
+<!-- PANEL CONTAINER -->
+<table>
+<tr>
+<td align="center">
+
+### 🧠 CORE SYSTEM
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<br>
 <img src="https://img.shields.io/badge/PROFILE-ACTIVE-00ff88?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/UPTIME-UNLIMITED-ff00ff?style=for-the-badge&labelColor=0d1117"/>
+<br>
+<img src="https://img.shields.io/badge/UPTIME-∞-ff00ff?style=for-the-badge&labelColor=0d1117"/>
 
----
+</td>
 
-### ── DEVELOPMENT MATRIX ──
+<td align="center">
+
+### ⚙️ DEVELOPMENT NODE
 
 <img src="https://img.shields.io/badge/FOCUS-FULLSTACK-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<br>
 <img src="https://img.shields.io/badge/SYSTEMS-DESIGN-ff00ff?style=for-the-badge&labelColor=0d1117"/>
+<br>
 <img src="https://img.shields.io/badge/AI-EXPLORATION-00ff88?style=for-the-badge&labelColor=0d1117"/>
 
----
+</td>
 
-### ── ENVIRONMENT NODE ──
+<td align="center">
+
+### 🌐 NETWORK NODE
 
 <img src="https://img.shields.io/badge/NODE-FRANCE-ffffff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/NETWORK-GITHUB-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<br>
+<img src="https://img.shields.io/badge/GITHUB-LINKED-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<br>
 <img src="https://img.shields.io/badge/SECURITY-ENABLED-ff0055?style=for-the-badge&labelColor=0d1117"/>
 
-</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ------------------------------------------------------------------------
 
