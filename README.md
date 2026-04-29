@@ -1,18 +1,14 @@
 # ⚡ Hi, I'm CM-exe
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;INITIALIZING+PROFILE...;WELCOME+TO+THE+GRID;CM-exe+ACTIVE" />`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;INITIALIZING+PROFILE...;WELCOME+TO+THE+GRID;CM-exe+ACTIVE" />
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 🧬 IDENTITY MATRIX
 
-``` bash
+```bash
 > user@github:~$ whoami
 > CM-exe
 > Developer / Builder / Systems Thinker
@@ -25,7 +21,7 @@
 
 ## ⚙️ SYSTEM OVERVIEW
 
-``` txt
+```txt
 LANGUAGES:  Python • JavaScript • TypeScript • Rust • Go
 FOCUS:      Full-stack / Systems / AI / Automation
 TOOLS:      Linux • Docker • Git • APIs • Cloud
@@ -73,7 +69,7 @@ Graph](https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&the
 
 ## 🔌 TERMINAL INTERFACE
 
-``` bash
+```bash
 $ echo "booting CM-exe profile..."
 boot complete
 
@@ -87,16 +83,11 @@ $ status:
 
 ## 🧷 SYSTEM BADGES
 
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/FOCUS-SYSTEMS-ff00ff?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/BUILDING-TOOLS-00ff88?style=for-the-badge"/>`{=html}
-
-```{=html}
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-TOOLS-00ff88?style=for-the-badge"/>
 </p>
-```
 
 ------------------------------------------------------------------------
 
