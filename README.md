@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hey, I'm [Your Name] 👋
 
-<!--
-**CM-exe/CM-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> building things, breaking things, learning in between.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About me
+
+- 💻 Developer focused on all possible technologies and even more!
+- ⚙️ Currently working on apprenticeship
+- 🌱 Always exploring: new tools, systems, and ideas
+- 📍 Based in France (you will never know)
+
+---
+
+## 🧪 What I do
+
+I like building:
+- tools that solve real problems
+- experiments that might not work (but teach something anyway)
+- projects that live on GitHub, Vercel and so much more
+
+---
+
+## 🚀 Projects
+
+- 🧩 **[Project 1]** — short description
+- ⚡ **[Workout App]** — short description
+- 🛠️ **[Project 3]** — short description
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/CM-exe/CM-exe/output/github-contribution-grid-snake.svg)
+
+---
+
+## Streak stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CM-exe&theme=radical)
+
+---
+
+## Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=react-dark)
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Philosophy
+
+> “simplicity scales better than complexity.”
