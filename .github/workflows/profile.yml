@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: CM-exe
           template: classic
           base: activity, repositories, metadata
@@ -65,7 +65,7 @@ jobs:
       - name: Generate 3D Contributions
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: CM-exe
 
       - name: Move 3D assets
@@ -94,7 +94,7 @@ jobs:
         continue-on-error: true
         with:
           github_user_name: CM-exe
-          github_token: ${{ secrets.METRICS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Move Pac-Man output
         run: |
