@@ -68,14 +68,39 @@ LOCATION:   NODE_FR (France)
 
 ## 📊 SYSTEM METRICS
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=tokyonight&hide_border=true)
+### 🧠 GitHub Stats
 
-![GitHub
-Streak](https://streak-stats.demolab.com?user=CM-exe&theme=tokyonight&hide_border=true)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=default&hide_border=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CM-exe&show_icons=true&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
 
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=react-dark)
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CM-exe&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=CM-exe&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=CM-exe&theme=tokyonight&hide_border=true">
+  </picture>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=react-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=github-light">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CM-exe&theme=react-dark">
+  </picture>
+</p>
 
 ------------------------------------------------------------------------
 
