@@ -33,34 +33,7 @@ jobs:
         run: mkdir -p .github/images
 
       # -----------------------------
-      # 3. GitHub Metrics (lowlighter)
-      # -----------------------------
-      - name: Generate GitHub metrics
-        uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: CM-exe
-          template: classic
-          base: activity, repositories, metadata
-
-          config_display: large
-          config_timezone: Europe/Paris
-          config_twemoji: yes
-
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-
-          plugin_activity: yes
-          plugin_activity_days: 14
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-
-          filename: .github/images/github-metrics.svg
-
-      # -----------------------------
-      # 4. 3D Contributions
+      # 3. 3D Contributions
       # -----------------------------
       - name: Generate 3D Contributions
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -76,7 +49,7 @@ jobs:
           rm -rf profile-3d-contrib || true
 
       # -----------------------------
-      # 5. Snake animation
+      # 4. Snake animation
       # -----------------------------
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -87,7 +60,7 @@ jobs:
             .github/images/github-snake-dark.svg?palette=github-dark
 
       # -----------------------------
-      # 6. Pac-Man graph
+      # 5. Pac-Man graph
       # -----------------------------
       - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
@@ -109,13 +82,13 @@ jobs:
           fi
 
       # -----------------------------
-      # 7. Debug output
+      # 6. Debug output
       # -----------------------------
       - name: List generated assets
         run: ls -al .github/images
 
       # -----------------------------
-      # 8. Commit changes
+      # 7. Commit changes
       # -----------------------------
       - name: Commit & push assets
         run: |

@@ -53,12 +53,6 @@ LOCATION:   NODE_FR (France)
 
 ------------------------------------------------------------------------
 
-### METRICS
-
-![metrics](https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-metrics.svg)
-
-------------------------------------------------------------------------
-
 ## 📊 SYSTEM METRICS
 
 ![GitHub
