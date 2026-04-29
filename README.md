@@ -1,7 +1,7 @@
 # ⚡ Hi, I'm CM-exe
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;INITIALIZING+PROFILE...;WELCOME+TO+THE+GRID;CM-exe+ACTIVE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0c9eeb&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;INITIALIZING+PROFILE...;WELCOME+TO+THE+GRID;CM-exe+ACTIVE" />
 </p>
 
 ------------------------------------------------------------------------
