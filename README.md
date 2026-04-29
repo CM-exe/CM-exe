@@ -82,6 +82,16 @@ LOCATION:   NODE_FR (France)
 
 ------------------------------------------------------------------------
 
+## PROGRAMMING SKILLS (NOT EXHAUSTIVE)
+
+![ts_star](https://readme-components.vercel.app/api?component=star-rating&skill=typescript&text=3)
+
+![ts_star](https://readme-components.vercel.app/api?component=star-rating&skill=python&text=5)
+
+![ts_star](https://readme-components.vercel.app/api?component=star-rating&skill=sqlite&text=4)
+
+------------------------------------------------------------------------
+
 ## ASCII FAKE ARTIST...
 
 ```
