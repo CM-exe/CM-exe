@@ -9,12 +9,28 @@
 ## 🧬 IDENTITY MATRIX
 
 ```bash
-> user@github:~$ whoami
-> CM-exe
-> Developer / Builder / Systems Thinker
+┌──(CM-exe@github)-[~]
+└─$ whoami
 
-> status: ACTIVE
-> mode: CYBERNETIC DEVELOPER
+> CM-exe
+> identity: developer / systems builder / explorer
+> status: ONLINE
+> mode: CYBERNETIC OPERATOR
+
+┌──(CM-exe@github)-[~]
+└─$ system_info
+
+kernel: github-profile-runtime v3.1
+environment: distributed development node
+location: NODE_FR (France)
+uptime: since first commit
+┌──(CM-exe@github)-[~]
+└─$ activity --status
+
+[✔] repositories indexed
+[✔] contribution graph synced
+[✔] automation workflows active
+[✔] profile rendering engine online
 ```
 
 ------------------------------------------------------------------------
@@ -121,9 +137,29 @@ $ status:
 ## 🧷 SYSTEM BADGES
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SYSTEMS-ff00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-TOOLS-00ff88?style=for-the-badge"/>
+
+### ── CORE SYSTEM STATUS ──
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PROFILE-ACTIVE-00ff88?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/UPTIME-UNLIMITED-ff00ff?style=for-the-badge&labelColor=0d1117"/>
+
+---
+
+### ── DEVELOPMENT MATRIX ──
+
+<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SYSTEMS-DESIGN-ff00ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/AI-EXPLORATION-00ff88?style=for-the-badge&labelColor=0d1117"/>
+
+---
+
+### ── ENVIRONMENT NODE ──
+
+<img src="https://img.shields.io/badge/NODE-FRANCE-ffffff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NETWORK-GITHUB-00f5ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SECURITY-ENABLED-ff0055?style=for-the-badge&labelColor=0d1117"/>
+
 </p>
 
 ------------------------------------------------------------------------
