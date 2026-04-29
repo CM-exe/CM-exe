@@ -43,14 +43,19 @@ LOCATION:   NODE_FR (France)
 
 ### 🐍 Snake Protocol
 
-![snake
-gif](https://raw.githubusercontent.com/CM-exe/CM-exe/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-snake.svg)
 
 ------------------------------------------------------------------------
 
 ### 🟡 PAC-MAN GRID SIMULATION
 
-![pacman](https://raw.githubusercontent.com/CM-exe/CM-exe/output/pacman-contribution-graph.svg)
+![pacman](https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/pacman.svg)
+
+------------------------------------------------------------------------
+
+### METRICS
+
+![metrics](https://raw.githubusercontent.com/CM-exe/CM-exe/main/.github/images/github-metrics.svg)
 
 ------------------------------------------------------------------------
 
