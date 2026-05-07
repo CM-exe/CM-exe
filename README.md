@@ -274,11 +274,16 @@ $ status:
 
 ------------------------------------------------------------------------
 
-## BE PERSEVERANT!
-
-
-------------------------------------------------------------------------
-
 ## 🧾 FINAL MESSAGE
 
 > "I build systems, not just code."
+
+------------------------------------------------------------------------
+
+## MAYBE THIS IS A MULTIVERSE?!
+
+<div align="center">
+
+<img src ="https://raw.githubusercontent.com/CM-exe/CM-exe/main/multiclem.gif"/>
+
+</div>
