@@ -2,13 +2,13 @@
 
 # CM-exe
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0C9EEB&center=true&vCenter=true&width=600&lines=Developer+%7C+Systems+Builder;Full-Stack+%E2%80%A2+AI+%E2%80%A2+Automation;Based+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Developer+%7C+Systems+Builder;Full-Stack+%E2%80%A2+AI+%E2%80%A2+Automation;Based+in+France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CS%20engineer-apprentice-00f5ff?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/location-France-white?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/curious%20about-new%20tech-ff00ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CS%20engineer-apprentice-58A6FF?style=flat&labelColor=161B22" />
+<img src="https://img.shields.io/badge/location-France-7EE787?style=flat&labelColor=161B22" />
+<img src="https://img.shields.io/badge/curious%20about-new%20tech-BC8CFF?style=flat&labelColor=161B22" />
 
 </div>
 
@@ -30,7 +30,7 @@ Computer Science Engineering student, currently on an apprenticeship — I build
 
 <div align="center">
 
-**See my full stack →** [myportfolio/about?tab=bonus_technos](https://myportfolio/about?tab=bonus_technos)
+**See my full stack →** [cmourgue.fr/about?tab=bonus_technos](https://cmourgue.fr/about?tab=bonus_technos)
 
 </div>
 
@@ -88,7 +88,7 @@ Computer Science Engineering student, currently on an apprenticeship — I build
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CM-exe&style=flat-square&color=0c9eeb&label=profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=CM-exe&style=flat&color=58A6FF&label=profile+views" alt="Profile views" />
 
 </div>
 
